@@ -1,0 +1,32 @@
+body{
+    color:#000000;
+}
+
+table{
+    color:rgb(0, 0, 0); 
+}
+
+h1{
+    font-style: italic;
+}
+div{
+    display:flex; align-items:center;
+}
+
+#red{
+    background-color:rgb(173,23,66); color:rgb(255,255,255);
+}
+
+
+
+.skills{
+    width: 300px;
+}
+
+.big{
+    width: 200px;
+}
+
+.small{
+    width: 80px;
+}
